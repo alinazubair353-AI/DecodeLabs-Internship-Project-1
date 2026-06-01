@@ -1,4 +1,6 @@
-<img width="2684" height="740" alt="iris_results" src="https://github.com/user-attachments/assets/a08bb203-9a53-4bf2-bb42-6e3414c2907f" />
+output:
+<img width="1300" height="690" alt="image" src="https://github.com/user-attachments/assets/fef2d7d4-8f56-4b38-9be1-a5d4e07f47b0" />
+
 # Project 1: Rule-Based Chatbot (DecodeLabs Internship)
 
 ## What is this?
