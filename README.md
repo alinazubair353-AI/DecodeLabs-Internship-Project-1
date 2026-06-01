@@ -1,3 +1,4 @@
+<img width="2684" height="740" alt="iris_results" src="https://github.com/user-attachments/assets/a08bb203-9a53-4bf2-bb42-6e3414c2907f" />
 # Project 1: Rule-Based Chatbot (DecodeLabs Internship)
 
 ## What is this?
